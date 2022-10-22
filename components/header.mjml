@@ -1,5 +1,5 @@
 <mj-section mj-class="bg-white" padding="24px 15px">
   <mj-column vertical-align="middle">
-    <mj-image align="left" src="img/header-logo.png" alt="Netflix" width="24px" />
+    <mj-image href="#" align="left" src="img/header-logo.png" alt="Netflix" width="24px" />
   </mj-column>
 </mj-section>
