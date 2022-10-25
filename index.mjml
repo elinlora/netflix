@@ -53,13 +53,7 @@
     <mj-section mj-class="bg-white">
       <mj-column>
         <mj-text>
-          <table
-            width="95%"
-            cellspacing="0"
-            cellpadding="0"
-            role="presentation"
-            border="0"
-            align="center">
+          <table width="95%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
             <tr>
               <td style="line-height: 0;">
                 <a href="#"><img src="img/hero-bg.jpg" alt="Fear City" style="max-width: 100%; border-top-left-radius: .6em; border-top-right-radius: .6em;"></a>
@@ -67,13 +61,7 @@
             </tr>
             <tr>
               <td bgcolor="#000000" style="padding: 1.8em 0; border-bottom-left-radius: .6em; border-bottom-right-radius: .6em;">
-                <table
-                  width="90%"
-                  cellspacing="0"
-                  cellpadding="0"
-                  role="presentation"
-                  border="0"
-                  align="center">
+                <table width="90%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
                   <tr>
                     <td>
                       <h2 style="font-size: 18px; font-weight: 700; color: #ffffff;">Fear City: New York vs The Mafia</h2>
@@ -95,39 +83,21 @@
                   </tr>
                   <tr>
                     <td style="padding-top: 1.2em;">
-                      <table
-                        width="48.5%"
-                        cellspacing="0"
-                        cellpadding="0"
-                        role="presentation"
-                        border="0"
-                        align="left">
+                      <table width="48.5%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
                         <tr>
                           <td align="center">
                             <a href="#" style="display: inline-block; font-size: 14px; font-weight: 700; background-color: #e50914; color: #f5f5f1; width: 100%;padding: 1.5em 0; border-radius: .3em;"><img src="img/play.png" alt="Play" style="max-width: 9px;">&nbsp;Play</a>
                           </td>
                         </tr>
                       </table>
-                      <table
-                        width="3%"
-                        cellspacing="0"
-                        cellpadding="0"
-                        role="presentation"
-                        border="0"
-                        align="left">
+                      <table width="3%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
                         <tr>
                           <td>
                             <span>&nbsp;</span>
                           </td>
                         </tr>
                       </table>
-                      <table
-                        width="48.5%"
-                        cellspacing="0"
-                        cellpadding="0"
-                        role="presentation"
-                        border="0"
-                        align="left">
+                      <table width="48.5%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
                         <tr>
                           <td align="center">
                             <a href="#" style="display: inline-block; font-size: 14px; font-weight: 700; background-color: #434344; color: #f5f5f1; width: 100%; padding: 1.5em 0; border-radius: .3em;">+ My List</a>
@@ -216,6 +186,10 @@
       </mj-column>
     </mj-section>
     <!-- / View All Button -->
+
+    <!-- ======> Footer <====== -->
+    <mj-include path="components/footer.mjml" />
+    <!-- ======> / Footer <====== -->
 
   </mj-body>
 </mjml>

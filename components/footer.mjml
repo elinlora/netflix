@@ -1,0 +1,45 @@
+<mj-section mj-class="bg-white" padding="30px 0">
+  <mj-column>
+    <mj-text>
+      <table width="95%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="center">
+        <tr>
+          <td>
+            <table width="10%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+              <tr>
+                <td>
+                  <a href="#">
+                    <img src="img/header-logo.png" alt="Netflix" style="max-width: 24px;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+            <table width="90%" cellspacing="0" cellpadding="0" role="presentation" border="0" align="left">
+              <tr>
+                <td>
+                  <p style="font-size: 14px; line-height: 18px; color: #A9A6A6;">Questions? Call 1-844-505-2993</p>
+                  <p style="font-size: 12px; line-height: 18px; color: #A9A6A6;">100 Winchester Circle, Los Gatos, CA 95032, U.S.A.</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ul style="padding: 0; list-style: none;">
+                    <li><a href="#" style="font-size: 12px; line-height: 18px; text-decoration: underline; color: #A9A6A6;">Unsubscribe</a></li>
+                    <li><a href="#" style="font-size: 12px; line-height: 18px; text-decoration: underline; color: #A9A6A6;">Terms of Use</a></li>
+                    <li><a href="#" style="font-size: 12px; line-height: 18px; text-decoration: underline; color: #A9A6A6;">Privacy</a></li>
+                    <li><a href="#" style="font-size: 12px; line-height: 18px; text-decoration: underline; color: #A9A6A6;">Help Center</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p style="font-size: 12px; line-height: 18px; color: #A9A6A6;">This message was mailed to [hello@SmilesDavis.yeah] by Netflix as part of your Netflix membership.</p>
+                  <p style="font-size: 12px; line-height: 18px; color: #A9A6A6;">SRC: 12184_en_US</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </mj-text>
+  </mj-column>
+</mj-section>
