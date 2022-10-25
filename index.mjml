@@ -10,6 +10,7 @@
     <mj-attributes>
 
       <mj-class name="bg-white" background-color="#ffffff" />
+      <mj-class name="container" padding-left="15px" padding-right="15px" />
     
       <mj-text padding="0" font-family="Lato" />
       <mj-wrapper padding="0" />
@@ -49,11 +50,11 @@
     <!-- ======> / Header <====== -->
 
     <!-- Hero -->
-    <mj-section>
+    <mj-section mj-class="bg-white">
       <mj-column>
         <mj-text>
           <table
-            width="100%"
+            width="95%"
             cellspacing="0"
             cellpadding="0"
             role="presentation"
@@ -143,6 +144,68 @@
       </mj-column>
     </mj-section>
     <!-- / Hero -->
+
+    <!-- Recently Added Heading -->
+    <mj-section mj-class="bg-white container" padding-top="30px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="900">
+          Recently Added
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- / Recently Added Heading -->
+
+    <!-- Recently Added Titles -->
+    <mj-section mj-class="bg-white container" padding-top="15px">
+      <mj-group>
+        <mj-column>
+          <mj-image align="left" href="#" src="img/street-food.jpg" alt="Street Food" width="180px" border-radius="8px" />
+        </mj-column>
+        <mj-column>
+          <mj-image align="center" href="#" src="img/dark.jpg" alt="Dark" width="180px" border-radius="8px" />
+        </mj-column>
+        <mj-column>
+          <mj-image align="right" href="#" src="img/down-to-earth.jpg" alt="Down to Earth" width="180px" border-radius="8px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- / Recently Added Titles -->
+
+    <!-- More for Heading -->
+    <mj-section mj-class="bg-white container" padding-top="30px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="900">
+          More for Smiles Davis
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- / More for Heading -->
+
+    <!-- More for Titles (1) -->
+    <mj-section mj-class="bg-white container" padding-top="15px">
+      <mj-group>
+        <mj-column>
+          <mj-image align="left" href="#" src="img/warrior-nun.jpg" alt="Warrior Nun" width="280px" border-radius="8px" />
+        </mj-column>
+        <mj-column>
+          <mj-image align="right" href="#" src="img/patriots-day.jpg" alt="Patriots Day" width="280px" border-radius="8px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- / More for Titles (1) -->
+
+    <!-- More for Titles (2) -->
+    <mj-section mj-class="bg-white container" padding-top="7.5px">
+      <mj-group>
+        <mj-column>
+          <mj-image align="left" href="#" src="img/cursed.jpg" alt="Cursed" width="280px" border-radius="8px" />
+        </mj-column>
+        <mj-column>
+          <mj-image align="right" href="#" src="img/the-old-guard.jpg" alt="The Old Guard" width="280px" border-radius="8px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- / More for Titles (2) -->
 
   </mj-body>
 </mjml>
