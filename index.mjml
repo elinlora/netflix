@@ -207,5 +207,15 @@
     </mj-section>
     <!-- / More for Titles (2) -->
 
+    <!-- View All Button -->
+    <mj-section mj-class="bg-white container" padding-top="15px">
+      <mj-column>
+        <mj-button href="#" width="100%" background-color="#e50914" font-size="15px" font-weight="700">
+          View All Tv Shows & Movies
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- / View All Button -->
+
   </mj-body>
 </mjml>
